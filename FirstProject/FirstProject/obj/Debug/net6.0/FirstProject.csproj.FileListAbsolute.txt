@@ -1,0 +1,15 @@
+D:\LFP-183\.netprojects\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.exe
+D:\LFP-183\.netprojects\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.deps.json
+D:\LFP-183\.netprojects\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.runtimeconfig.json
+D:\LFP-183\.netprojects\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.dll
+D:\LFP-183\.netprojects\FirstProject\FirstProject\bin\Debug\net6.0\FirstProject.pdb
+D:\LFP-183\.netprojects\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.csproj.AssemblyReference.cache
+D:\LFP-183\.netprojects\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\LFP-183\.netprojects\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.AssemblyInfoInputs.cache
+D:\LFP-183\.netprojects\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.AssemblyInfo.cs
+D:\LFP-183\.netprojects\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.csproj.CoreCompileInputs.cache
+D:\LFP-183\.netprojects\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.dll
+D:\LFP-183\.netprojects\FirstProject\FirstProject\obj\Debug\net6.0\refint\FirstProject.dll
+D:\LFP-183\.netprojects\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.pdb
+D:\LFP-183\.netprojects\FirstProject\FirstProject\obj\Debug\net6.0\FirstProject.genruntimeconfig.cache
+D:\LFP-183\.netprojects\FirstProject\FirstProject\obj\Debug\net6.0\ref\FirstProject.dll

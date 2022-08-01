@@ -1,0 +1,15 @@
+D:\LFP-183\.netprojects\SecondProject\SecondProject\bin\Debug\net6.0\SecondProject.exe
+D:\LFP-183\.netprojects\SecondProject\SecondProject\bin\Debug\net6.0\SecondProject.deps.json
+D:\LFP-183\.netprojects\SecondProject\SecondProject\bin\Debug\net6.0\SecondProject.runtimeconfig.json
+D:\LFP-183\.netprojects\SecondProject\SecondProject\bin\Debug\net6.0\SecondProject.dll
+D:\LFP-183\.netprojects\SecondProject\SecondProject\bin\Debug\net6.0\SecondProject.pdb
+D:\LFP-183\.netprojects\SecondProject\SecondProject\obj\Debug\net6.0\SecondProject.csproj.AssemblyReference.cache
+D:\LFP-183\.netprojects\SecondProject\SecondProject\obj\Debug\net6.0\SecondProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\LFP-183\.netprojects\SecondProject\SecondProject\obj\Debug\net6.0\SecondProject.AssemblyInfoInputs.cache
+D:\LFP-183\.netprojects\SecondProject\SecondProject\obj\Debug\net6.0\SecondProject.AssemblyInfo.cs
+D:\LFP-183\.netprojects\SecondProject\SecondProject\obj\Debug\net6.0\SecondProject.csproj.CoreCompileInputs.cache
+D:\LFP-183\.netprojects\SecondProject\SecondProject\obj\Debug\net6.0\SecondProject.dll
+D:\LFP-183\.netprojects\SecondProject\SecondProject\obj\Debug\net6.0\refint\SecondProject.dll
+D:\LFP-183\.netprojects\SecondProject\SecondProject\obj\Debug\net6.0\SecondProject.pdb
+D:\LFP-183\.netprojects\SecondProject\SecondProject\obj\Debug\net6.0\SecondProject.genruntimeconfig.cache
+D:\LFP-183\.netprojects\SecondProject\SecondProject\obj\Debug\net6.0\ref\SecondProject.dll
