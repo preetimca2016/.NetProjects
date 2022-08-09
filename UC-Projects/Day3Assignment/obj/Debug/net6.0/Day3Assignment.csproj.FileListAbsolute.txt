@@ -1,0 +1,15 @@
+D:\LFP-183\.netprojects\.NetProjects\UC-Projects\Day3Assignment\bin\Debug\net6.0\Day3Assignment.exe
+D:\LFP-183\.netprojects\.NetProjects\UC-Projects\Day3Assignment\bin\Debug\net6.0\Day3Assignment.deps.json
+D:\LFP-183\.netprojects\.NetProjects\UC-Projects\Day3Assignment\bin\Debug\net6.0\Day3Assignment.runtimeconfig.json
+D:\LFP-183\.netprojects\.NetProjects\UC-Projects\Day3Assignment\bin\Debug\net6.0\Day3Assignment.dll
+D:\LFP-183\.netprojects\.NetProjects\UC-Projects\Day3Assignment\bin\Debug\net6.0\Day3Assignment.pdb
+D:\LFP-183\.netprojects\.NetProjects\UC-Projects\Day3Assignment\obj\Debug\net6.0\Day3Assignment.csproj.AssemblyReference.cache
+D:\LFP-183\.netprojects\.NetProjects\UC-Projects\Day3Assignment\obj\Debug\net6.0\Day3Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\LFP-183\.netprojects\.NetProjects\UC-Projects\Day3Assignment\obj\Debug\net6.0\Day3Assignment.AssemblyInfoInputs.cache
+D:\LFP-183\.netprojects\.NetProjects\UC-Projects\Day3Assignment\obj\Debug\net6.0\Day3Assignment.AssemblyInfo.cs
+D:\LFP-183\.netprojects\.NetProjects\UC-Projects\Day3Assignment\obj\Debug\net6.0\Day3Assignment.csproj.CoreCompileInputs.cache
+D:\LFP-183\.netprojects\.NetProjects\UC-Projects\Day3Assignment\obj\Debug\net6.0\Day3Assignment.dll
+D:\LFP-183\.netprojects\.NetProjects\UC-Projects\Day3Assignment\obj\Debug\net6.0\refint\Day3Assignment.dll
+D:\LFP-183\.netprojects\.NetProjects\UC-Projects\Day3Assignment\obj\Debug\net6.0\Day3Assignment.pdb
+D:\LFP-183\.netprojects\.NetProjects\UC-Projects\Day3Assignment\obj\Debug\net6.0\Day3Assignment.genruntimeconfig.cache
+D:\LFP-183\.netprojects\.NetProjects\UC-Projects\Day3Assignment\obj\Debug\net6.0\ref\Day3Assignment.dll
